@@ -66,3 +66,5 @@ The QuoteBox component will render all elements in the quote box, such as:
 2. The share quote twitter button: this will tweet the current quote and author to twitter.
 3. The share quote tumblr button: this will share the current quote and author to tumblr.
 4. The new quote button: this will trigger the changeEverything function.
+  
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
