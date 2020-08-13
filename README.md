@@ -30,7 +30,7 @@ https://codepen.io/jordyf15/full/OJyeoar
 
 ## List of React Components:
 ### App Component
-The app component rendered the background and also is the parent of quote box component. This is where the color list, quote and author are imported.
+The app component rendered the background and also is the parent of quote box component. This is where the color list, quote list and author list are imported from the storage files to make it more neat.
 #### States
 The app component only have 1 state which is the colorIndex where it will be used to change the background color and also as props for the default state of colorIndex of QuoteBox.
 #### Functions
